@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Consolas,sans-serif;
+}
+
+#Title {
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: Gray;
+ }
+ 
+ #Paragraph {
+     text-align: center;
+     font-size: 20px;
+     margin: 0px;
+     color: Gray;
+ }
+ 
+ #MadeBy {
+     text-align: bottom;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: red;
+     padding: 0px;
+     margin: 0;
+	 position: bottom;
+ }
+ 
+ #Embed {
+     text-align: center;
+     padding: 100px;
+ }
+ 
+ #Body {
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url("Background.jpg");
+ }
+ 
+ #About {
+     text-align: Left;
+     Color: Gray;
+ }
+ 
+ #YtbButtonUrl {
+     padding: 10px 10px;
+     border-radius: 8px;
+     position: absolute;
+     top: 155px;
+     -ms-transform: translateY(50%);
+     transform: translateY(50%);
+     right: 420px;
+     width: 180px;
+     transition-duration: 0.4s;
+     background-color: #f2e8ac;
+     cursor: pointer;
+ }
+ 
+ #YtbInsertUrl {
+     position: absolute;
+     padding: 10px 10px;
+     top: 150px;
+     -ms-transform: translateY(50%);
+     transform: translateY(50%);
+     right: 600px;
+     width: 400px;
+     background-color: #f2e8ac;
+     font-size: 15px;
+ }
