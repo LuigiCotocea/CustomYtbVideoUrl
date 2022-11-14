@@ -5,7 +5,7 @@
 }
 
 #Title {
-    font-size: 2rem;
+    font-size: 4rem;
     text-align: center;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -23,14 +23,15 @@
      text-align: bottom;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      color: red;
-     padding: 0px;
-     margin: 0;
+     padding: 1px;
+     margin: auto;
 	 position: bottom;
+     text-align: right;
  }
  
  #Embed {
      text-align: center;
-     padding: 100px;
+     padding: 55px;
  }
  
  #Body {
